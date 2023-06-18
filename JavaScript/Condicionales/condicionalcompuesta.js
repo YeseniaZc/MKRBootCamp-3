@@ -17,7 +17,7 @@ if (number >= 10 && number <= 20) {
 let num = 45
 
 if (num >= 10 && num <= 20) {
-    console.log ("El núemro esta entre 10 y 20");
+    console.log ("El número esta entre 10 y 20");
 } else {
     console.log("El número NO esta entre 10 y 20")
 }
