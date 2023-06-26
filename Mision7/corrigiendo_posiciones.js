@@ -23,3 +23,10 @@ for (let i = 0; i < array.lenght; i++) {
 
 console.log(array)
 
+
+/* let arr = ["Primero", "Segundo", "Tercero", "Cuarto", "Soy el ultimo elemento"]
+
+let newArray = ["Quinto", "Sexto"]
+
+arr.splice(4, 0, newArray[0]);
+arr.splice(5, 0 newArray[1])

@@ -1,5 +1,5 @@
 //Variables
-var name = "yesenia";
+let name = "yesenia";
 console.log ('Hola ' + name)
 
 
