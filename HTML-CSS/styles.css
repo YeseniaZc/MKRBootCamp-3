@@ -1,0 +1,21 @@
+.title { 
+    color: violet;
+}
+
+#parrafoOne {
+    color: blue;
+}
+
+.imagen {
+    width: 200px;
+    height: 200px;
+}
+
+.container { 
+    width: 500px;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 50px;
+    background-color: beige;
+}
+
