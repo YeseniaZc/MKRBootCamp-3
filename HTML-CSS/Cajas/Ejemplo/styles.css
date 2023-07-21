@@ -1,0 +1,11 @@
+.parrafo {
+    width: 200px;
+    height: 40px;
+    padding: 10px 15px 20px 8px;
+    border: 2px solid black;
+    border-top: 3px dotted blue;
+    border-right: 2px dashed red;
+    border-bottom: 3px dotted purple;
+    border-left: 2px double green;
+    margin: 30px;
+}

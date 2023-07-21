@@ -1,0 +1,11 @@
+.background {
+    width: 800px;
+    height: 1000px;
+    /* background-color: aquamarine;
+    background-image: url("perrito.jpg");
+    background-repeat: no-repeat;
+    background-position: center; /*tambien con center bottom right, necesita 2 para vertical y horizontal, se puede pixeles o porcentajes*/
+    /* background-size: cover; 
+    background-attachment: fixed; */
+    background: yellow url("perrito.jpg") no-repeat center/100px 200px fixed;
+}

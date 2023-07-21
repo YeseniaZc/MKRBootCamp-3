@@ -1,0 +1,40 @@
+* {
+    font-size: 24px;
+}
+
+p:first-child {
+    color: chocolate;
+}
+
+p, a { /*parrafos y links*/
+    color: rebeccapurple;
+}
+
+
+p.parrafo1 { /*especifico*/
+    color: blue;
+}
+
+.container p { /*descendiente */
+    color: green;
+}
+
+.container > p { /*hijo directo*/
+    color: red;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: red;
+}
+
+a:active {
+    color: chartreuse;
+}

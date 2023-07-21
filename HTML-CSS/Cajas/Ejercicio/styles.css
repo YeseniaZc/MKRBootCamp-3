@@ -1,0 +1,11 @@
+.parrafo {
+    padding: 30px;
+    border: 2px solid red;
+    margin: 20px;
+    width: 500px;
+    height: 100px;
+}
+
+.linea {
+    border: 2px solid green;
+}

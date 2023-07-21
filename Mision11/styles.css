@@ -1,0 +1,41 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    position: fixed;
+    margin-left: 20px;
+} 
+
+.copyright {
+    min-height: 100%;
+    position: fixed;
+    margin-bottom: 40px;
+}
+
+.center {
+    font-size: 7px;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 1500px;
+    height: 40px;
+    color: gray;
+    
+}
+
+.image {
+    width: 800px;
+    height: 800px;
+    background: white url("scarecrow.png") no-repeat 40px 100px/400px 400px fixed;
+}
+
+.box2 {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    width: 300px;
+    height: 100px;
+    top: 150px;
+    left: 500px;
+}
+
