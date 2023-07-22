@@ -1,4 +1,4 @@
-body {
+.main-container {
     margin: 0px;
     font-family: 'Courier New', Courier, monospace;
     background-color: white;
@@ -83,3 +83,46 @@ p {
     height: 350px;
 }
 
+
+ /* @media (min-width: 1440px) {
+    .main-container {
+        max-width: 1440px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .error-container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .img {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 375px) {
+    .main-container {
+        margin: 40px;
+    }
+
+    .error-message {
+        margin: 30px 0;
+    }
+
+    .error-container {
+        padding: 30px;
+    }
+
+    .text1 {
+        font-size: 28px;
+    }
+
+    .text2 {
+        font-size: 18px;
+    }
+
+    .button {
+        font-size: 18px;
+    }
+} */
